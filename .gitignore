@@ -1,0 +1,6 @@
+# macOS 系统生成文件
+.DS_Store
+._*
+
+# ds 文件
+*.ds
