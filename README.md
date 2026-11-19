@@ -21,7 +21,7 @@
 | kimi-k2.8-preview-反代 | Kimi-K2.8-Preview-Proxy | 视觉 | 1M | 64K | low / high / max | 是 |
 | kimi-k3-1-反代 | Kimi-K3-Proxy | 视觉 | 1M | 32K | low / high / max | 是 |
 | kimi-k3.1-pro-反代 | Kimi-K3.1-Pro-Proxy | 视觉 | 1M | 32K | low / high / max | 否 |
-| mimo-v2.6-pro-反代 | Xiaomi MiMo-V2.6-Pro-Proxy | 视觉 | 1M | 128K | high | 否 |
+| mimo-v2.6-pro-反代 | MiMo-V2.6-Pro-Proxy | 视觉 | 1M | 128K | high | 否 |
 | minimax-m3-反代 | MiniMax-M3-Proxy | 视觉 | 512K | 128K | medium | 否 |
 | minimax-m3.1-flash-反代 | MiniMax-M3.1-Flash-Proxy | 视觉 | 1M | 128K | low / medium / high / xhigh / max | 否 |
 | space-bunny-反代 | Space-Bunny-Proxy | 视觉 | 1M | 128K | low / medium / high / xhigh / max | 否 |
