@@ -25,6 +25,6 @@
 | minimax-m3-反代 | MiniMax-M3-Proxy | 视觉 | 512K | 128K | medium | 否 |
 | minimax-m3.1-flash-反代 | MiniMax-M3.1-Flash-Proxy | 视觉 | 1M | 128K | low / medium / high / xhigh / max | 否 |
 | space-bunny-反代 | Space-Bunny-Proxy | 视觉 | 1M | 128K | low / medium / high / xhigh / max | 否 |
-| step-5-preview-反代 | Step-5-Preview-Proxy| 视觉 | 1M | 64K | low / medium / high | 否 |
+| step-5-preview-反代 | Step-5-Preview-Proxy | 视觉 | 1M | 64K | low / medium / high | 否 |
 
 > 采样：Hy 系（hy3、hy4-preview-f、hy4std、hy4flash、hy4flash-free）温度 0.9、top_p 1；其余模型温度 1。
