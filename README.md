@@ -14,7 +14,7 @@
 | hy3-反代 | Hy3-Proxy | 视觉 | 192K | 64K | low / high | 否 |
 | hy4-preview-f-反代 | Hy4-Preview-Proxy | 视觉 | 1M | 64K | high | 否 |
 | hy4flash-反代 | Hy4-Flash-Proxy | 视觉 | 960K | 64K | high | 否 |
-| hy4flash-free-反代 |  Hy4Flash-Free-Proxy | 视觉 | 960K | 64K | high | 否 |
+| hy4flash-free-反代 |  Hy4-Flash-Free-Proxy | 视觉 | 960K | 64K | high | 否 |
 | hy4std-反代 | Hy4-Proxy | 视觉 | 960K | 64K | high | 否 |
 | kimi-k2.6-反代 | Kimi-K2.6-Proxy | 视觉 | 256K | 32K | medium | 否 |
 | kimi-k2.7-反代 | Kimi-K2.7-Code-Proxy | 视觉 | 256K | 32K | medium | 否 |
