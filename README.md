@@ -8,8 +8,8 @@
 | deepseek-v4.1-flash-反代 | DeepSeek-V4.1-Flash-Proxy | 视觉 | 1M | 128K | low / high / max | 是 |
 | glm-5.1-反代 | GLM-5.1-Proxy | 视觉 | 200K | 48K | medium | 否 |
 | glm-5.2-反代 | GLM-5.2-Proxy | 视觉 | 1M | 64K | high / xhigh | 是 |
-| glm-5.3-反代 | GLM-5.3-Proxy | 视觉 | 1M | 64K | low / high / max | 否 |
-| glm-5.3-flash-反代 | GLM-5.3-Flash-Proxy | 文本（实测无视觉） | 1M | 131K | low / high / max | 否 |
+| glm-5.3-反代 | GLM-5.3-Proxy | 文本 | 1M | 64K | low / high / max | 否 |
+| glm-5.3-flash-反代 | GLM-5.3-Flash-Proxy | 视觉） | 1M | 131K | low / high / max | 否 |
 | glm-5v-turbo-反代 | GLM-5v-Turbo-Proxy | 视觉 | 200K | 64K | medium | 否 |
 | hy3-反代 | Hy3-Proxy | 视觉 | 192K | 64K | low / high | 否 |
 | hy4-preview-f-反代 | Hy4-preview-Proxy | 视觉 | 1M | 64K | high | 否 |
